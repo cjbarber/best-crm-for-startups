@@ -3,7 +3,7 @@ By Chris Barber
 
 ### Close.io (ElasticSales)
 
-[Marc Hoag on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Marc-Hoag)
+**[Marc Hoag on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Marc-Hoag)**
 
 """
 
@@ -17,7 +17,7 @@ Just take their trial for a test run, watch their CEO's phenomenal Sales 101 pre
 
 ### Highrise
 
-[Evan Bartlett on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Evan-Bartlett)
+**[Evan Bartlett on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Evan-Bartlett)**
 
 """
 
@@ -35,7 +35,7 @@ All of these are good options, and I've used them with teams extensively
 
 ### Pipedrive
 
-[Argo Hussar on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Argo-Hussar)
+**[Argo Hussar on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Argo-Hussar)**
 
 """
 
@@ -45,7 +45,7 @@ I have also checked out several other ones over the 7 years while I have been in
 
 """
 
-[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
+**[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)**
 
 """
 
@@ -57,7 +57,7 @@ Here is the short list of the strong points for each CRM system I've tried:
 
 """
 
-[Michal Ugor on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Michal-Ugor)
+**[Michal Ugor on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Michal-Ugor)**
 
 """
 
@@ -69,7 +69,7 @@ It only focuses on your pipeline not useless info and allows you to edit your le
 
 ### BaseCRM
 
-[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
+**[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)**
 
 """
 
@@ -83,7 +83,7 @@ Here is the short list of the strong points for each CRM system I've tried:
 
 ### Salesforce
 
-[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
+**[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)**
 
 """
 
@@ -95,7 +95,7 @@ Here is the short list of the strong points for each CRM system I've tried:
 
 """
 
-[Tawheed Kader on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Tawheed-Kader)
+**[Tawheed Kader on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Tawheed-Kader)**
 
 """
 
@@ -110,7 +110,7 @@ If you sum all of that up, you'll end up going with buying a "big boy CRM" and t
 
 """
 
-[Max Altschuler on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Max-Altschuler)
+**[Max Altschuler on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Max-Altschuler)**
 
 """
 
@@ -120,7 +120,7 @@ As mentioned a few times in this chain, the sad reality is that you'll eventuall
 
 ### RelateIQ
 
-[Adam Chavez on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Adam-Chavez)
+**[Adam Chavez on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Adam-Chavez)**
 
 """
 
@@ -152,7 +152,7 @@ Why?
 
 ### Intercom
 
-[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
+**[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)**
 
 """
 
@@ -166,7 +166,7 @@ Here is the short list of the strong points for each CRM system I've tried:
 
 ### BantamLive
 
-[Kris Haamer on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Kris-Haamer) (2010)
+**[Kris Haamer on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Kris-Haamer)** (2010)**
 
 """
 
@@ -176,7 +176,7 @@ I'm using a combination of BantamLive and Gist with good results. Between them t
 
 ### Pipeline Deals
 
-[Evan Bartlett on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Evan-Bartlett)
+**[Evan Bartlett on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Evan-Bartlett)**
 
 """
 
@@ -194,7 +194,7 @@ All of these are good options, and I've used them with teams extensively
 
 ### Nimble
 
-[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
+**[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)**
 
 """
 
@@ -208,7 +208,7 @@ Here is the short list of the strong points for each CRM system I've tried:
 
 ### CapsuleCRM
 
-[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
+**[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)**
 
 """
 
@@ -250,9 +250,7 @@ Here is the short list of the strong points for each CRM system I've tried:
 
 [This is a list of various CRM software and a comparison of features](https://docs.google.com/a/staff.com/spreadsheet/ccc?key=0Ahw066SJeeSadFFKQkY0cGY5dFFvVWpFWVhoSjRYWWc#gid=1) ([Source](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Rob-Rawson))
 
-### Other Sales Related Tools
-
-[Source](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Max-Altschuler)
+### Other Sales Related Tools ([Source](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Max-Altschuler))
 
 #### ToutApp/Yesware/Signals
 #### Rapportive
@@ -274,6 +272,3 @@ http://www.quora.com/What-is-the-best-CRM-to-use-for-tracking-job-applicants
 - **Your startup is currently a side project?** Streak (integrated with Gmail), SugarCRM (self hosted, free and open source), or a spreadsheet.
 - **Using your CRM for tracking applicants?** RelateIQ.
 - **Still not satisfied?** Try out Pipedrive, Close.io or BaseCRM.
-
-
-
