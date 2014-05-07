@@ -234,11 +234,15 @@ I'm using a combination of BantamLive and Gist with good results. Between them t
 
 http://www.quora.com/What-is-the-best-CRM-software-for-startups
 
-Takeaways:
+http://www.quora.com/Startups/What-is-the-best-CRM-solution-for-startups
+
+http://www.quora.com/What-is-the-best-CRM-to-use-for-tracking-job-applicants
+
+## Takeaways:
 - **Just raised a Series A and ready to hire salespeople?** Salesforce or RelateIQ.
 - **Your startup is currently a side project?** Streak (integrated with Gmail), SugarCRM (self hosted, free and open source), or a spreadsheet.
 - **Using your CRM for tracking applicants?** RelateIQ.
-- **Still not satisfied?** Try out Pipedrive, Close.io and BaseCRM.
+- **Still not satisfied?** Try out Pipedrive, Close.io or BaseCRM.
 
 
 
