@@ -108,24 +108,6 @@ Here is the short list of the strong points for each CRM system I've tried:
 
 """
 
-### Pipeline Deals
-
-[Evan Bartlett on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Evan-Bartlett)
-
-"""
-
-2)  Smaller teams / casual sales
-
-If you have a smaller team, are doing more BD than sales, or just don't have the budget, Salesforce is not for you.  It takes a lot of work to get a positive ROI.
-
-I would recommend a ligther system with opportunity / deal pipeline tracking like BantamLive ( http://www.bantamlive.com/ ) or Pipeline Deals ( https://www.pipelinedeals.com/ )
-
-If you don't need to track a pipeline, then you could go even lighter with something like Highrise ( http://highrisehq.com/ )
-
-All of these are good options, and I've used them with teams extensively
-
-"""
-
 ### Intercom
 
 [Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
@@ -205,6 +187,10 @@ Why?
 
 """
 
+### Streak
+
+## More Alternatives
+
 ### BantamLive
 
 [Kris Haamer on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Kris-Haamer) (2010)
@@ -215,11 +201,55 @@ I'm using a combination of BantamLive and Gist with good results. Between them t
 
 """
 
-### Other Resources
+### Pipeline Deals
+
+[Evan Bartlett on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Evan-Bartlett)
+
+"""
+
+2)  Smaller teams / casual sales
+
+If you have a smaller team, are doing more BD than sales, or just don't have the budget, Salesforce is not for you.  It takes a lot of work to get a positive ROI.
+
+I would recommend a ligther system with opportunity / deal pipeline tracking like BantamLive ( http://www.bantamlive.com/ ) or Pipeline Deals ( https://www.pipelinedeals.com/ )
+
+If you don't need to track a pipeline, then you could go even lighter with something like Highrise ( http://highrisehq.com/ )
+
+All of these are good options, and I've used them with teams extensively
+
+"""
+
+### Even More Alternatives
+
+- Netsuite
+- Stride
+- Zoho
+- Google Docs
+- Streamfocus.com
+- CiviCRM
+- Genius
+- Heap
+- Officezilla
+- Insightly
+- Clinchpad
+- Sellsy
+- Kreato CRM
+salesnexus
+podio
+wishery
+casepro
+amocrm
+comidor
+- Inflo oftware
+- Nimble
+- Silentale
+- Capsule
+
+### Other Resources for Choosing a CRM
 
 [This is a list of various CRM software and a comparison of features](https://docs.google.com/a/staff.com/spreadsheet/ccc?key=0Ahw066SJeeSadFFKQkY0cGY5dFFvVWpFWVhoSjRYWWc#gid=1) ([Source](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Rob-Rawson))
 
-### Other Tools
+### Other Sales Related Tools
 
 [Source](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Max-Altschuler)
 
