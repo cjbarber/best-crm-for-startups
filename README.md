@@ -3,7 +3,7 @@ By Chris Barber
 
 ### Close.io (ElasticSales)
 
-**[Marc Hoag on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Marc-Hoag)**
+#### [Marc Hoag on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Marc-Hoag)
 
 """
 
