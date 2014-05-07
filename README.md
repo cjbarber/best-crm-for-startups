@@ -66,34 +66,6 @@ It only focuses on your pipeline not useless info and allows you to edit your le
 
 """
 
-### Nimble
-
-[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
-
-"""
-
-We (Quote Roller) integrate with ~ 10 CRM systems, I tried them all either to design integrations or use internally.
-
-Here is the short list of the strong points for each CRM system I've tried:
-
-1. Nimble - great integration with LinkedIN. Choose it if you're selling via LinkedIn
-
-"""
-
-### CapsuleCRM
-
-[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
-
-"""
-
-We (Quote Roller) integrate with ~ 10 CRM systems, I tried them all either to design integrations or use internally.
-
-Here is the short list of the strong points for each CRM system I've tried:
-
-4. CapsuleCRM - good API, very flexible
-
-"""
-
 ### BaseCRM
 
 [Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
@@ -105,20 +77,6 @@ We (Quote Roller) integrate with ~ 10 CRM systems, I tried them all either to de
 Here is the short list of the strong points for each CRM system I've tried:
 
 5. BaseCRM - doing outbound calls? Base has a great VOIP integration recording all the calls your reps make attaching them to deals
-
-"""
-
-### Intercom
-
-[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
-
-"""
-
-We (Quote Roller) integrate with ~ 10 CRM systems, I tried them all either to design integrations or use internally.
-
-Here is the short list of the strong points for each CRM system I've tried:
-
-6. Intercom - not a fully-loaded CRM, rather contacts management system for SAAS; though, works really well for SaaS companies with inbound leads flow. 
 
 """
 
@@ -191,6 +149,20 @@ Why?
 
 ## More Alternatives
 
+### Intercom
+
+[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
+
+"""
+
+We (Quote Roller) integrate with ~ 10 CRM systems, I tried them all either to design integrations or use internally.
+
+Here is the short list of the strong points for each CRM system I've tried:
+
+6. Intercom - not a fully-loaded CRM, rather contacts management system for SAAS; though, works really well for SaaS companies with inbound leads flow. 
+
+"""
+
 ### BantamLive
 
 [Kris Haamer on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Kris-Haamer) (2010)
@@ -219,6 +191,34 @@ All of these are good options, and I've used them with teams extensively
 
 """
 
+### Nimble
+
+[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
+
+"""
+
+We (Quote Roller) integrate with ~ 10 CRM systems, I tried them all either to design integrations or use internally.
+
+Here is the short list of the strong points for each CRM system I've tried:
+
+1. Nimble - great integration with LinkedIN. Choose it if you're selling via LinkedIn
+
+"""
+
+### CapsuleCRM
+
+[Mikita Mikado on Quora](http://www.quora.com/What-is-the-best-CRM-software-for-startups/answer/Mikita-Mikado)
+
+"""
+
+We (Quote Roller) integrate with ~ 10 CRM systems, I tried them all either to design integrations or use internally.
+
+Here is the short list of the strong points for each CRM system I've tried:
+
+4. CapsuleCRM - good API, very flexible
+
+"""
+
 ### Even More Alternatives
 
 - Netsuite
@@ -234,13 +234,13 @@ All of these are good options, and I've used them with teams extensively
 - Clinchpad
 - Sellsy
 - Kreato CRM
-salesnexus
-podio
-wishery
-casepro
-amocrm
-comidor
-- Inflo oftware
+- SalesNexus
+- Podio
+- Wishery
+- Casepro
+- AmoCRM
+- Comidor
+- Inflo Software
 - Nimble
 - Silentale
 - Capsule
